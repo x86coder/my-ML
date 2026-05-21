@@ -3,7 +3,7 @@ Machine learning samples
 
 ## computer-vision
 
-Example of automatic image annotation made with the CVAT software.
+Example of automatic video annotation made with the CVAT software using pre-trained model.
 
 ## Perceptron
 
